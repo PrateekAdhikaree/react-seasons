@@ -1,12 +1,18 @@
 # Seasons
 
+![display](public/display.jpg 'display')
+
 ## Tools Used
 
 - react-js [[Ref]](https://reactjs.org/docs/getting-started.html)
 
-## Available Scripts
+## Running the project
 
 In the project directory, you can run:
+
+### `npm i`
+
+Installs the required packages in node_modules directory
 
 ### `npm start`
 
@@ -27,6 +33,9 @@ You will also see any lint errors in the console.
 ## Flow
 
 1. User allow (or does not allows) location request in the browser
+
+![spinner](public/spinner.jpg 'spinner')
+
 2. If location granted, show the styling based on the simple below logic
 
 Season is calculated based on:
@@ -35,9 +44,3 @@ Season is calculated based on:
 - Current month
 
 ![season-logic](public/season-logic.jpg 'season-logic')
-
-## Screenshot
-
-![spinner](public/spinner.jpg 'spinner')
-![summer](public/summer.jpg 'summer')
-![winter](public/winter.jpg 'winter')
