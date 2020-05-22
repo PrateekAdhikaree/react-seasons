@@ -27,6 +27,7 @@ You will also see any lint errors in the console.
 **main file**: [index.js](src/index.js)
 
 - [App](src/index.js)
+  - [useLocation](src/useLocation.js)
   - [SeasonDisplay](src/SeasonDisplay.js)
   - [Spinner](src/Spinner.js)
 
