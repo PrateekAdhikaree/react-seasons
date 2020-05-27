@@ -45,3 +45,7 @@ Season is calculated based on:
 - Current month
 
 ![season-logic](public/season-logic.jpg 'season-logic')
+
+#### Credits
+
+Stephen Grider [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/)
